@@ -6,6 +6,12 @@ Mark a task **Agent ready** on your phone. The listener picks it up, runs your c
 
 This repository only hosts the signed installer. It contains no source code.
 
+![Step 1: connect a project. Copy the setup prompt in Keystone on iPhone and paste it into Keystone Listener on the Mac.](images/1-connect.png)
+
+![Step 2: share tasks. The phone shows Claude Code working on a task while the Mac lists the same tasks.](images/2-work.png)
+
+![Step 3: review the result. The phone shows the agent's report; the Mac shows the task ready to review.](images/3-review.png)
+
 ## Download
 
 **[Keystone-Listener-arm64.pkg](https://github.com/djock/keystone-listener/releases/latest/download/Keystone-Listener-arm64.pkg)** (Apple silicon, macOS 13 or later)
